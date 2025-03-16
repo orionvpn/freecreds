@@ -7,9 +7,6 @@
 49.13.62.204|palladam|Sx5D)R+Z9Y9d|de
 135.125.183.99|root|ayman20|de
 45.85.249.162|root|JaiGanesh@108K|de
-163.172.85.64|root|fribourg007|fr
-51.38.51.146|root|verdasca34001190|fr
-98.66.182.61|root|tawSEEN1|fr
 116.207.30.199|root|1312385720|cn
 106.59.227.94|root|andy911051|cn
 103.82.193.168|root|Cmtsq@09054255|vn
